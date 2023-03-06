@@ -30,3 +30,6 @@ public/uploads/*
 /coverage/
 
 .vscode/settings.json
+
+# Docker stuff
+db-volume/mysql
