@@ -54,6 +54,7 @@
     "ejs": "~2.6.2",
     "express": "~4.17.1",
     "express-session": "~1.16.2",
+    "forever": "^4.0.3",
     "formidable": "^2.1.1",
     "helmet": "~3.20.0",
     "https-proxy-agent": "^3.0.1",
